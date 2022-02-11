@@ -8,7 +8,7 @@
 
 ## About
 
-This is a project for the Section 13 Bootstrap practice on Web Developer Bootcamp course by Colt Steele on Udemy. The project called as Museum of Candy Project.
+This is a project for the Section 13 Bootstrap practice on Web Developer Bootcamp course by Colt Steele on Udemy. This project called Museum of Candy Project.
 
 <a name="features"></a>
 
@@ -27,13 +27,3 @@ This is a project for the Section 13 Bootstrap practice on Web Developer Bootcam
 - CSS
 - Bootstrap 5
 - JavaScript
-
-<a name="technical_information"></a>
-
-## Technical Information
-
-To run the site on your local machine
-
-1. Download or clone the repository onto your machine.
-2. Extract the .zip file.
-3. Open .html file in your browser.
